@@ -1,0 +1,17 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+#iltodbul {
+  display: block;
+  width:600px;
+  margin: 50px auto;
+}
+
+p {
+  display: block;
+  width: 500px;
+  margin: 50px auto;
+  font: 40px Verdana,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
